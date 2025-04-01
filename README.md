@@ -2,4 +2,4 @@
 
 This is a simple website for Lucas Schiavetti.
 
-![lucas](assets/lucas.jpg)
+<img src="assets/lucas.jpg" alt="drawing" width="200"/>
