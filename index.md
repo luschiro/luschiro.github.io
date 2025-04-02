@@ -1,6 +1,10 @@
 ---
+layout: home
 title: home
 ---
 
-Welcome to my data portfolio. 
-Here I will present some data cases that I've worked.
+Welcome to my data portfolio!
+My name is Lucas Schiavetti and here I will present some data cases that I've worked.
+
+Some links to my repos:
+* [mindapp](https://github.com/luschiro/mindapp): a simple ETL case getting mineral data from the mindat.org [API](https://api.mindat.org/schema/redoc/)

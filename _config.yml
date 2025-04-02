@@ -1,5 +1,10 @@
 title: Lucas R. Schivetti
 description: data science portfolio
 
-# minima:
-#   skin: dark  # Options: auto, dark, solarized, classic
+theme: minima
+minima:
+  skin: auto  # Options: auto, dark, solarized, classic
+
+nav-items:
+  teste 1
+  test 2
