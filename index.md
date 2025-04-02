@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Home"
+title: this is a tittle
 ---
 
-This is the index!!!!
+Welcome to my data portfolio. 
+Here I will present some data cases that I wo
