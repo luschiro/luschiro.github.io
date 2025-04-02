@@ -1,1 +1,6 @@
-This is the index!
+---
+layout: default
+title: "Home"
+---
+
+This is the index!!!!
