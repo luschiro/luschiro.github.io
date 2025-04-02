@@ -1,10 +1,4 @@
 title: Lucas R. Schivetti
-description: data science portfolio
+description: geologist | data scientist
 
 theme: minima
-minima:
-  skin: auto  # Options: auto, dark, solarized, classic
-
-nav-items:
-  teste 1
-  test 2

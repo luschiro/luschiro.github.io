@@ -1,6 +1,5 @@
 ---
-layout: home
-title: home
+title: Home
 ---
 
 Welcome to my data portfolio!
