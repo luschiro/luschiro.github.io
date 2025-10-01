@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Lucas R. Schiavetti and I'm an earth scientist, currently working as a contractor researcher for Unicamp.
+Hello! I'm Lucas R. Schiavetti and I'm an earth scientist. I hold an undegraduate degree from the University of São Paulo and a Masters degree from the University of Campinas, focused on petro(chrono)logy, crustal evolution and tectonics.
+The first paper with my masters data was [published](https://onlinelibrary.wiley.com/doi/10.1111/jmg.70007) on _Journal of Metamorphic Geology_.
 
-My main interests include petrology, tectonics, crustal evolution and solving geology problems with programming and data science. I was able to publish **a paper** on high-grade metamorphism and now I'm developing a data tool to help the dating of carbonates to the oil industry. 
-
+After workig with data science for a while, I'm now a full-time researcher at Unicamp building a data tool to improve carbonate geochronology for the oil industry.
 
 Cheers!
