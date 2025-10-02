@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-new-begginins",
+        },{id: "post-new-beginnins",
         
-          title: "new begginins",
+          title: "new beginnins",
         
         description: "starting off this website",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/new_website/";
+            window.location.href = "/blog/2025/new_beginnings/";
           
         },
       },{id: "post-a-post-with-plotly-js",
