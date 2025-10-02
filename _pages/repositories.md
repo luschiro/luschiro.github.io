@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Information about my [github profile](https://github.com/luschiro).
+description: Information about my coding projects.
 nav: true
 nav_order: 4
 ---
