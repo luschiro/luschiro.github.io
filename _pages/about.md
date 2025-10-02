@@ -24,7 +24,7 @@ latest_posts:
 
 I'm a geologist currently trying to improve carbonate geochronology methods for the oil industry.
 
-I hold a Masters degree from the University of Campinas in **metamophic petrology, geochronology and thermodynamic modelling**, which led to the [publication](https://onlinelibrary.wiley.com/doi/10.1111/jmg.70007) of my first paper on _Journal of Metamorphic Geology_. Before that, I got my geology undergrad from the University of São Paulo.
+I hold a Masters degree from the University of Campinas in **metamophic petrology, geochronology and thermodynamic modelling**, which led to the publication of my first [paper]((https://onlinelibrary.wiley.com/doi/10.1111/jmg.70007)) on _Journal of Metamorphic Geology_. Before that, I got my geology undergrad from the University of São Paulo.
 
 My interests include metamorphic petro(chrono)logy, crustal evolution and tectonics; and solve geological problems with code and data science.
 
