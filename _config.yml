@@ -185,9 +185,11 @@ exclude:
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
+  - _news/announcement_*.md
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/profiles.md
   - purgecss.config.js
   - README.md
   - readme_preview/
