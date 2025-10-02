@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Information about my [github profile](https://github.com/luschiro).",
+          description: "Information about my coding projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-new-begginins",
+        
+          title: "new begginins",
+        
+        description: "starting off this website",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/new_website/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
