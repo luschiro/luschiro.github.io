@@ -5,3 +5,6 @@ repo_description_lines_max: 2
 
 github_repos:
   - luschiro/mindapp
+  - luschiro/therlit
+  - luschiro/workflows-geo-data
+  - luschiro/xmapy
