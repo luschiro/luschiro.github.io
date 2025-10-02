@@ -27,12 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Lucas R. Schiavetti and I'm an earth scientist. 
+I'm a geologist currently trying to improve carbonate geochronology methods for the oil industry.
 
-I'm a full-time researcher at Unicamp building a data tool to improve carbonate geochronology for the oil industry, after working with data analysis for a while.
+I hold a Masters degree from the University of Campinas in metamophic petrology, geochronology and thermodynamic modelling, which led to the [publication](https://onlinelibrary.wiley.com/doi/10.1111/jmg.70007) of my first paper on _Journal of Metamorphic Geology_. Before that, I got my geology undergrad from the University of São Paulo.
 
-I got a geology bachelor degree from the University of São Paulo; and a Masters of Science degree from the University of Campinas focused on metamorphic petro(chrono)logy, crustal evolution and tectonics.
-My first paper with was [published](https://onlinelibrary.wiley.com/doi/10.1111/jmg.70007) on _Journal of Metamorphic Geology_ in 2025. 
+My interests include metamorphic petro(chrono)logy, crustal evolution and tectonics; and solve geological problems with code and data science.
 
+This website contains info about my work, previous contributions and things that I randomly feel like sharing..
 
 Cheers!
