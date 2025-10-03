@@ -27,8 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a brazilian geologist currently working with machine learning applied to geochronology.
+I'm a brazilian geologist currently working with **machine learning** applied to petrology.
 
-I hold a Masters degree from the University of Campinas in petrochronology of metamorphic rocks. Before that, I got my geology undergrad at the University of São Paulo. I was also able to study abroad at Western Washington Univesity (US) and at the Univeristy of Otago (New Zealand).
+I hold a Master's degree in **petrochronology of metamorphic rocks** from the University of Campinas and a geology Bachelor's degree from the University of São Paulo. 
 
-My interests include petrochronology, tectonics and solve geological problems with spftware.
+I also had the opportunity to study abroad at the University of Otago (New Zealand) and to conduct reasearch at Western Washington Univesity and Washington State University (USA).
+
+My interests include petrochronology, tectonics, solve geological problems with software and communicate science.
+
