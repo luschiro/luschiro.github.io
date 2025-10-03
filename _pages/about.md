@@ -27,12 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a geologist currently trying to improve carbonate geochronology methods for the oil industry.
+I'm a brazilian geologist currently working with machine learning applied to geochronology.
 
-I hold a Masters degree from the University of Campinas in **metamophic petrology, geochronology and thermodynamic modelling**, which led to my first [paper]((https://onlinelibrary.wiley.com/doi/10.1111/jmg.70007)) on _Journal of Metamorphic Geology_. Before that, I got my geology undergrad from the University of São Paulo.
+I hold a Masters degree from the University of Campinas in petrochronology of metamorphic rocks. Before that, I got my geology undergrad at the University of São Paulo. I was also able to study abroad at Western Washington Univesity (US) and at the Univeristy of Otago (New Zealand).
 
-My interests include metamorphic petrochronology, crustal evolution and tectonics; and solve geological problems with code and data science.
-
-This website contains info about my work, previous contributions and things that I randomly feel like sharing..
-
-Cheers!
+My interests include petrochronology, tectonics and solve geological problems with spftware.
