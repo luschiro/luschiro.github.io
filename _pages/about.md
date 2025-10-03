@@ -31,7 +31,7 @@ I'm a brazilian geologist currently working with **machine learning** applied to
 
 I hold a Master's degree in **petrochronology of metamorphic rocks** from the University of Campinas and a geology Bachelor's degree from the University of São Paulo. 
 
-I also had the opportunity to study abroad at the University of Otago (New Zealand) and to conduct reasearch at Western Washington Univesity and Washington State University (USA).
+I also had the opportunity to study abroad at the University of Otago (New Zealand),  and to conduct reasearch at Western Washington Univesity and Washington State University (USA).
 
 My interests include petrochronology, tectonics, solving geological problems with software and communicate science.
 
