@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Lucas Rodrigues Schiavetti",
+    "label": "Geologist",
+    "image": "prof_pic.jpg",
+    "email": "lucas_geologia@hotmail.com",
+    "phone": "+55 (11) 123-4567",
+    "url": "https://luschiro.github.io",
+    "summary": "An earth scientist exploring the interface between petrology, tectonics and programming.",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": "03226-070",
+      "city": "Campinas",
+      "countryCode": "BR",
+      "region": "São Paulo"
     },
     "profiles": [
       {
