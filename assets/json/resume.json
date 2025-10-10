@@ -38,12 +38,24 @@
       "institution": "University of Campinas",
       "location": "Campinas, Brazil",
       "url": "https://unicamp.br/en/",
-      "area": "Petrology",
+      "area": "Metamorphic Petrology",
       "studyType": "Masters",
       "startDate": "2017-02-01",
       "endDate": "2019-07-01",
       "score": "",
-      "courses": ["Geology of Brazil"]
+      "courses": ["Seminars on Geology","Special Topics on Geodynamics", "Crustal Evolution and Metallogenesis",
+    "Metallogenesis Processes"]
+    },
+    {
+      "institution": "University of São Paulo",
+      "location": "São Paulo, Brazil",
+      "url": "https://unicamp.br/en/",
+      "area": "Geology",
+      "studyType": "Bachelor",
+      "startDate": "2011-02-01",
+      "endDate": "2016-11-01",
+      "score": "",
+      "courses": [""]
     }
   ],
   "certificates": [
