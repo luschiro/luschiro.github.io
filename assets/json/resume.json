@@ -51,7 +51,7 @@
       "location": "Bellingham (WA), USA",
       "url": "https://www.wwu.edu/",
       "area": "Geology",
-      "studyType": "International Student",
+      "studyType": "Researcher",
       "startDate": "2018-08-01",
       "endDate": "2019-02-01",
       "score": "",
@@ -65,19 +65,17 @@
       "studyType": "Bachelor",
       "startDate": "2011-02-01",
       "endDate": "2016-11-01",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "University of Otago",
       "location": "Dunedin, New Zealand",
       "url": "https://www.otago.ac.nz/",
       "area": "Geology",
-      "studyType": "Bachelor",
+      "studyType": "International Student",
       "startDate": "2014-06-01",
       "endDate": "2015-06-01",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "University of São Paulo",
@@ -87,8 +85,7 @@
       "studyType": "Bachelor",
       "startDate": "2011-02-01",
       "endDate": "2016-11-01",
-      "score": "",
-      "courses": [""]
+      "score": ""
     }
   ],
   "certificates": [
