@@ -38,12 +38,12 @@
       "institution": "University of Campinas",
       "location": "Campinas, Brazil",
       "url": "https://unicamp.br/en/",
-      "area": "Metamorphic Petrology",
-      "studyType": "Masters",
+      "area": "Petrochronology",
+      "studyType": "Master of Science, Geology",
       "startDate": "2017-02-01",
       "endDate": "2019-07-01",
       "score": "",
-      "courses": ["Petrology","Geochronology","Tectonics"]
+      "courses": [""]
     },
     {
       "institution": "Western Washington University",
@@ -54,14 +54,14 @@
       "startDate": "2018-08-01",
       "endDate": "2019-02-01",
       "score": "",
-      "courses": ["Garnet Lu-HF dating", "Thermodynamic Modelling"]
+      "courses": [""]
     },
     {
       "institution": "University of São Paulo",
       "location": "São Paulo, Brazil",
       "url": "https://unicamp.br/en/",
-      "area": "Geology",
-      "studyType": "Bachelor",
+      "area": "",
+      "studyType": "Bachelor, Geology",
       "startDate": "2011-02-01",
       "endDate": "2016-11-01",
       "score": "7.4"
@@ -70,11 +70,12 @@
       "institution": "University of Otago",
       "location": "Dunedin, New Zealand",
       "url": "https://www.otago.ac.nz/",
-      "area": "Geology",
+      "area": "",
       "studyType": "International Student",
       "startDate": "2014-06-01",
       "endDate": "2015-06-01",
-      "score": "Science Without Borders program"
+      "score": "",
+      "courses": ["Science Without Borders program"]
     }
   ],
   "certificates": [
