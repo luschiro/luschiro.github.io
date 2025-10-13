@@ -43,19 +43,18 @@
       "startDate": "2017-02-01",
       "endDate": "2019-07-01",
       "score": "",
-      "courses": ["Seminars on Geology","Special Topics on Geodynamics", "Crustal Evolution and Metallogenesis",
-    "Metallogenesis Processes"]
+      "courses": ["Petrology","Geochronology","Tectonics"]
     },
     {
       "institution": "Western Washington University",
       "location": "Bellingham (WA), USA",
       "url": "https://www.wwu.edu/",
       "area": "Geology",
-      "studyType": "Researcher",
+      "studyType": "international Researcher",
       "startDate": "2018-08-01",
       "endDate": "2019-02-01",
       "score": "",
-      "courses": [""]
+      "courses": ["Garnet Lu-HF dating", "Thermodynamic Modelling"]
     },
     {
       "institution": "University of São Paulo",
@@ -65,7 +64,7 @@
       "studyType": "Bachelor",
       "startDate": "2011-02-01",
       "endDate": "2016-11-01",
-      "score": ""
+      "score": "7.4"
     },
     {
       "institution": "University of Otago",
@@ -75,17 +74,7 @@
       "studyType": "International Student",
       "startDate": "2014-06-01",
       "endDate": "2015-06-01",
-      "score": ""
-    },
-    {
-      "institution": "University of São Paulo",
-      "location": "São Paulo, Brazil",
-      "url": "https://unicamp.br/en/",
-      "area": "Geology",
-      "studyType": "Bachelor",
-      "startDate": "2011-02-01",
-      "endDate": "2016-11-01",
-      "score": ""
+      "score": "Science Without Borders program"
     }
   ],
   "certificates": [
