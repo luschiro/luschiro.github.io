@@ -24,9 +24,9 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Researcher",
-      "url": "https://example.com",
+      "name": "match.mt",
+      "position": "Data Analyst",
+      "url": "",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
@@ -51,7 +51,7 @@
       "url": "https://www.wwu.edu/",
       "area": "",
       "studyType": "Researcher",
-      "startDate": "2018-08-01",
+      "startDate": "",
       "endDate": "2019-02-01",
       "score": ""
     },
