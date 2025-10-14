@@ -38,19 +38,19 @@
       "institution": "University of Campinas",
       "location": "Campinas, Brazil",
       "url": "https://unicamp.br/en/",
-      "area": "Petrochronology",
+      "area": "Crutal Evolution",
       "studyType": "Master of Science, Geology",
       "startDate": "2017-02-01",
       "endDate": "2019-07-01",
       "score": "",
-      "courses": [""]
+      "courses": ["Petrochronology","Metamorphic Petrology", "Tectonics"]
     },
     {
       "institution": "Western Washington University",
       "location": "Bellingham (WA), USA",
       "url": "https://www.wwu.edu/",
       "area": "",
-      "studyType": "international Researcher",
+      "studyType": "Researcher",
       "startDate": "2018-08-01",
       "endDate": "2019-02-01",
       "score": ""
@@ -70,7 +70,7 @@
       "location": "Dunedin, New Zealand",
       "url": "https://www.otago.ac.nz/",
       "area": "",
-      "studyType": "International Student",
+      "studyType": "Exchange Student",
       "startDate": "2014-06-01",
       "endDate": "2015-06-01",
       "score": "",
