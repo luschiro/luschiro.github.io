@@ -150,12 +150,23 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Geological Mapping",
+        "Petrography/Petrology",
+        "Geochronology",
+        "Geochemistry",
+        "GIS"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "Professional",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Dataviz",
+        "Machine Learning"
       ]
     }
   ],
