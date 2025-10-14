@@ -27,8 +27,8 @@
       "name": "gamersclub",
       "position": "Data Analyst",
       "url": "",
-      "startDate": "2022",
-      "endDate": "2025",
+      "startDate": "2022-03-01",
+      "endDate": "2025-10-01",
       "summary": "",
       "highlights": [""]
     },
@@ -49,8 +49,8 @@
       "url": "https://unicamp.br/en/",
       "area": "Crutal Evolution",
       "studyType": "Master of Science, Geology",
-      "startDate": "2017-02-01",
-      "endDate": "2019-07-01",
+      "startDate": "2019",
+      "endDate": "2019",
       "score": "",
       "courses": ["Petrochronology","Metamorphic Petrology", "Tectonics"]
     },
