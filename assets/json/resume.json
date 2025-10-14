@@ -43,7 +43,7 @@
   "education": [
     {
       "institution": "University of Campinas",
-      "location": "Campinas, Brazil",
+      "location": "Brazil",
       "url": "https://unicamp.br/en/",
       "area": "Crutal Evolution",
       "studyType": "Master of Science, Geology",
@@ -54,7 +54,7 @@
     },
     {
       "institution": "Western Washington University",
-      "location": "Bellingham (WA), USA",
+      "location": "USA",
       "url": "https://www.wwu.edu/",
       "area": "",
       "studyType": "Researcher",
@@ -64,7 +64,7 @@
     },
     {
       "institution": "University of São Paulo",
-      "location": "São Paulo, Brazil",
+      "location": "Brazil",
       "url": "https://unicamp.br/en/",
       "area": "",
       "studyType": "Bachelor, Geology",
@@ -74,7 +74,7 @@
     },
     {
       "institution": "University of Otago",
-      "location": "Dunedin, New Zealand",
+      "location": "New Zealand",
       "url": "https://www.otago.ac.nz/",
       "area": "",
       "studyType": "Exchange Student",
