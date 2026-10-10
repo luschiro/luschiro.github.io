@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-new-beginnins",
+        },{id: "post-back-to-blogging",
+        
+          title: "Back to blogging",
+        
+        description: "Getting back to updating this blog",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/back-to-blogging/";
+          
+        },
+      },{id: "post-new-beginnins",
         
           title: "new beginnins",
         
