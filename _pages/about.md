@@ -5,7 +5,7 @@ permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
@@ -34,5 +34,3 @@ I hold a Master's degree in **petrochronology of metamorphic rocks** from the Un
 I also had the opportunity to study abroad at the University of Otago (New Zealand),  and to conduct reasearch at Western Washington Univesity and Washington State University (USA).
 
 My interests include petrochronology, tectonics, solving geological problems with software and communicate science.
-
-===
