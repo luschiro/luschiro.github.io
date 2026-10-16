@@ -35,3 +35,4 @@ I also had the opportunity to study abroad at the University of Otago (New Zeala
 
 My interests include petrochronology, tectonics, solving geological problems with software and communicate science.
 
+===
