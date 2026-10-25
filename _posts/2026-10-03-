@@ -20,24 +20,26 @@ The Petrochronology class will have two weeks. Here is a summary of the first we
 
 The first day of the course was an introduction to some concepts and the main body of work on Petrochronology. A good first reading in these is of course the review volume from *Khon, Lanari and Engi (2017) - Petrochronology: Methods and Applications*.
 
-
 A nice quote from this work:
 
 > ...a rock does not have, sensu stricto, one age
 
 ### day 2: Analytical Techniques in Petrochronology
 
-The first part of the day was a recap on main mapping techniques used in Petrochron, specially SEM and EPMA. I learned about the ways that electron beams interact with samples and how chemical information is detected with EDS and WDS spectometes.
+The first part of the day was a recap on chemical mapping techniques used in Petrochron, specially X-Ray mapping using the scanning-electron microscopy (SEM) and electron-probe micro analyser (EPMA). A brief explanation ond the physics of them, as well as detailing both EDS and WDS I learned about the ways that electron beams interact with samples and how chemical information is detected with EDS and WDS spectrometers.
 
 ### day 3: N-Dimensional Compositional Space with CSpace
 
-Another cool round of analytical work using CSpace, a program used to 
+Another cool round of analytical work using CSpace, a program used to viualize mineral chemistry data on a n-dimensional space. It is possible to project any components into a ternary or tetrahedron plot, visualize end-members chemistry and plot mineral chemistry analysis. Further reading: Torres-Roldan et al., (2000).  
 
 ### day 4: Compositional Mapping
 
-
+On Day 4, I finally had the chance to learn new workflows on the new version of XMapTools (Lanari et al., 2014). Current version 4.5 has some cool new features, including a machine-learning based classification.
 
 ### day 5: Thermodynamic Modelling
 
+During the last day of the first week, we worked with THERIAK-DOMINO, a program by de Capitani & Petrakakis  
 
-Also, during the week we have the visit from professor Daniel Hurlov showing his work with experimental petrology. Several distinct work was presented, showing the strong relation between chemistry of fluids and trace elements, REE zoning due to decoupled dissolution and reprecipitation. Some the references include:
+---
+
+Also, during the week we have the visit from professor Daniel Harlov showing his work with experimental petrology. Several distinct work were presented, showing the strong relation between chemistry of fluids and trace elements, REE zoning due to coupled dissolution and reprecipitation. Some the references include examples of Pb mobility in alkali- and alkaline-bearing fluids, enabling the reset of zircon geochronometer (Harlov et al., 2023); and the case of apatite as a fingerprint for metasomatic processes in different geological contexts (Harlov et al., 2002; Harlov & Foster, 2003; Harlov et al., 2025).
