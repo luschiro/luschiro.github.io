@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-new-beginnins",
+        },{id: "post-petrochronology-week-1",
+        
+          title: "Petrochronology Week 1",
+        
+        description: "a wrap-up",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/petrochron-week1/";
+          
+        },
+      },{id: "post-new-beginnins",
         
           title: "new beginnins",
         
