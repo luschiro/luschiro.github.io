@@ -11,7 +11,7 @@ chart:
 
 ## intro
 
-So, I created this website a while ago to track my PhD and my work as a geology researcher at Unicamp. But as life happens, I'm only updating this now. But anyway, in my first semester back in geology as a researcher and a PhD student, I had a Special Topics class, where I wrote an essay about chemical mapping; and a Remote Sensing and Geotechnologies class to get a hold of some new tools (ENVI).
+Hey there. I created this website a while ago to track my PhD and my work as a geology researcher at Unicamp. But as life happens, I'm only updating this now. But anyway, in my first semester back in geology as a researcher and a PhD student, I had a Special Topics class, where I wrote an essay about chemical mapping; and a Remote Sensing and Geotechnologies class to get a hold of some new tools (ENVI).
 
 But now, I have just wrapped up the first week of a short class about **Petrochronology**, by Prof. Vinícius T. Meira, who also happens to be my advisor. The Petrochronology class will have two weeks, and here is a summary of the amazing first week:
 
@@ -25,7 +25,7 @@ A nice quote from this work that gives a nice glimpse of what Petrochronology is
 
 ### day 2: Analytical Techniques in Petrochronology
 
-The first part of the day was a recap on chemical mapping techniques used in Petrochronology, especially X-Ray mapping using the *scanning electron microscope (SEM)* and the *electron probe micro analyser (EPMA)*. A brief explanation on how the electron beams interact with the sample and the physics behind these instruments, as well as detailing both *EDS (energy-dispersive X-Ray spectrometry) and WDS (wavelength-dispersive X-Ray spectrometry) sensors.
+The first part of the day was a recap on chemical mapping techniques used in Petrochronology, especially X-Ray mapping using the *scanning electron microscope (SEM)* and the *electron probe micro analyser (EPMA)*. A brief explanation on how the electron beams interact with the sample and the physics behind these instruments, as well as detailing both EDS (energy-dispersive X-Ray spectrometry) and WDS (wavelength-dispersive X-Ray spectrometry) sensors.
 
 ### day 3: N-Dimensional Compositional Space with CSpace
 
@@ -33,7 +33,7 @@ Another cool round of analytical work using CSpace, a program used to visualize 
 
 ### day 4: Compositional Mapping
 
-On Day 4, I finally had the chance to learn new workflows on the new version of XMapTools (Lanari et al., 2014). The current version 4.5 has some cool new features, including a machine-learning-based classification that might save a lot of time while classifying maps and generating mineral masks for further quantification with internal standards.
+On Day 4, I finally had the chance to learn new workflows on the new version of XMapTools (Lanari *et al*., 2014). The current version 4.5 has some cool new features, including a machine-learning-based classification that might save a lot of time while classifying maps and generating mineral masks for further quantification with internal standards.
 
 ### day 5: Thermodynamic Modelling
 
