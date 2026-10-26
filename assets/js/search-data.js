@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-petrochronology-week-1",
+        },{id: "post-petrochronology-class-week-1",
         
-          title: "Petrochronology Week 1",
+          title: "petrochronology class - week 1",
         
         description: "a wrap-up",
         section: "Posts",
