@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Petrochronology Week 1
+title: petrochronology class - week 1
 date: 2025-03-26 14:24:00
 description: a wrap-up
 tags: "petrochronology"
