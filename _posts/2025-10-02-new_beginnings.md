@@ -9,4 +9,4 @@ chart:
   plotly: false
 ---
 
-This is my fist blog post in this new website. It marks the beginning of something new...
+This is my fist blog post in this new website. It marks the beginning of something new.
