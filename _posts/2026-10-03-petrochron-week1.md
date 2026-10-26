@@ -25,7 +25,7 @@ A nice quote from this work that gives a nice glimpse of what Petrochronology is
 
 ### day 2: Analytical Techniques in Petrochronology
 
-The first part of the day was a recap on chemical mapping techniques used in Petrochronology, especially X-Ray mapping using the *scanning electron microscope (SEM)* and the *electron probe micro analyser (EPMA)*. A brief explanation on how the electron beams interact with the sample and the physics behind these instruments, as well as detailing both EDS (energy-dispersive X-Ray spectrometry) and WDS (wavelength-dispersive X-Ray spectrometry) sensors.
+The first part of the day was a recap on chemical mapping techniques used in Petrochronology, especially X-Ray mapping using the *scanning electron microscope (SEM)* and the *electron probe microanalyser (EPMA)*. A brief explanation on how the electron beams interact with the sample and the physics behind these instruments, as well as detailing both EDS (energy-dispersive X-Ray spectrometry) and WDS (wavelength-dispersive X-Ray spectrometry) sensors.
 
 ### day 3: N-Dimensional Compositional Space with CSpace
 
@@ -42,3 +42,15 @@ During the last day of the first week, we worked with THERIAK-DOMINO, a program 
 ---
 
 Also, during the week we had a visit from professor **Daniel Harlov** showing his work with experimental petrology. Several distinct works were presented, showing the strong relation between chemistry of fluids and trace elements, REE zoning due to coupled dissolution and reprecipitation. Some of the references include examples of Pb mobility in alkali- and alkaline-bearing fluids, enabling the resetting of the zircon geochronometer (Harlov *et al*., 2023); and the case of apatite as a fingerprint for metasomatic processes in different geological contexts (Harlov *et al*., 2002; Harlov & Foster, 2003; Harlov *et al*., 2025).
+
+#### references
+
+[Daniel Harlov Google Scholar](https://scholar.google.com/citations?hl=en&user=GepvQHAAAAAJ&view_op=list_works&sortby=pubdate)
+
+**de Capitani, C., and K. Petrakakis. 2010**. The Computation of Equilibrium Assemblage Diagrams With Theriak/Domino Software. *American Mineralogist* 95, 1006–1016.
+
+**Kohn, Lanari & Engi. 2017**. Petrochronology: Methods and Applications. *Reviews in Mineralogy & Geochemistry* 83. 
+
+**Lanari, P., O. Vidal, V. de Andrade, et al. 2014**. XMapTools: A MATLAB©-based Program for Electron Microprobe X-Ray Image Processing and Geothermobarometry. *Computers & Geosciences* 62, 227–240.
+
+**Torres-Roldan et al., 2000**. CSpace: an integrated workplace for the graphical and algebraic analysis of phase assemblages on 32-bit Wintel platforms. *Computers & Geosciences* 26, 779-793.
